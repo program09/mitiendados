@@ -1,0 +1,34 @@
+.footer_section_catalogo{
+    width: 100%;
+    height: auto;
+    background: var(--cabecera);
+    padding: 10px !important;
+}
+
+.contenido{
+    width: 100%;
+}
+.contenido .row{
+    width: 100%;
+    text-align: center;
+}
+.columna h5{
+    font-weight: 999;
+}
+.columna{
+    padding-top: 20px !important;
+    padding-bottom: 30px !important;
+    color: rgb(44, 43, 43);
+}
+
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px !important;
+    padding-top: 30px !important;
+
+}
+
+.copyright p a{
+    color: rgb(236, 231, 231);
+}
